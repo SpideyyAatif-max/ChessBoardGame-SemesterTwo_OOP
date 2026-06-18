@@ -58,13 +58,13 @@ Main Classes
 
 1. ChessPiece
 <p>Represents a chess piece.</p>
-<p>Stores:</p>
-<p>piece name</p>
-<p>piece color</p>
-<p>piece symbol</p>
+Stores:
+piece name
+piece color
+piece symbol
 
 2. ChessBoard
-Represents the chess board.
+<p>Represents the chess board.</p>
 Responsibilities:
 initialize the board
 place chess pieces
@@ -75,7 +75,7 @@ handle captures
 delete dynamically allocated pieces
 
 3. Player
-Represents a player.
+<p>Represents a player.</p>
 Responsibilities:
 sign up player
 display player profile
