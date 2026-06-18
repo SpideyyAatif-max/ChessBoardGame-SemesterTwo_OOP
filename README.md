@@ -57,32 +57,32 @@ This project demonstrates object-oriented programming concepts such as classes, 
 Main Classes
 
 1. ChessPiece
--Represents a chess piece.
--Stores:
--piece name
--piece color
--piece symbol
+<p>Represents a chess piece.</p>
+<p>Stores:</p>
+<p>piece name</p>
+<p>piece color</p>
+<p>piece symbol</p>
 
 2. ChessBoard
--Represents the chess board.
--Responsibilities:
--initialize the board
--place chess pieces
--display the board
--move pieces
--validate moves
--handle captures
--delete dynamically allocated pieces
+Represents the chess board.
+Responsibilities:
+initialize the board
+place chess pieces
+display the board
+move pieces
+validate moves
+handle captures
+delete dynamically allocated pieces
 
 3. Player
--Represents a player.
--Responsibilities:
--sign up player
--display player profile
--play game
--chat with another player
--save player data to file
--read player data from file
+Represents a player.
+Responsibilities:
+sign up player
+display player profile
+play game
+chat with another player
+save player data to file
+read player data from file
 
 Chess Piece Symbols
 
